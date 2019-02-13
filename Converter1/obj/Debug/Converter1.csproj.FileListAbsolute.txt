@@ -1,0 +1,9 @@
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\bin\Debug\Converter1.exe.config
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\obj\Debug\Converter1.csprojResolveAssemblyReference.cache
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\obj\Debug\Converter1.Form1.resources
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\obj\Debug\Converter1.Properties.Resources.resources
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\obj\Debug\Converter1.csproj.GenerateResource.Cache
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\bin\Debug\Converter1.exe
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\bin\Debug\Converter1.pdb
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\obj\Debug\Converter1.exe
+c:\users\claudio\documents\visual studio 2015\Projects\Converter1\Converter1\obj\Debug\Converter1.pdb
